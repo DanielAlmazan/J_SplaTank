@@ -1,0 +1,37 @@
+{
+  "ANACLET": {
+    "name": "ANACLET",
+    "points": 0,
+    "record": 99999,
+    "matchesWon": 99999,
+    "matchesLost": 0
+  },
+  "D": {
+    "name": "D",
+    "points": 108,
+    "record": 108,
+    "matchesWon": 1,
+    "matchesLost": 0
+  },
+  "A": {
+    "name": "A",
+    "points": 0,
+    "record": 0,
+    "matchesWon": 0,
+    "matchesLost": 1
+  },
+  "DANIEH": {
+    "name": "DANIEH",
+    "points": 1441,
+    "record": 1441,
+    "matchesWon": 1,
+    "matchesLost": 1
+  },
+  "GASPAR": {
+    "name": "GASPAR",
+    "points": 18,
+    "record": 642,
+    "matchesWon": 1,
+    "matchesLost": 1
+  }
+}
